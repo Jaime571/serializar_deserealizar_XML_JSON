@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gf3wiXq0/Le9DS0DG2Nzm5UIe6tRq2JuosuSIQ0V2mFxb3RH+lr0P7777HscOKSU0ZdPGGP5jzf5TdLNJ2Nsng==",
+  "success": true,
+  "projectFilePath": "D:\\Séptimo\\Programación_Avanzada_I\\II\\serializar_deserealizar_XML_JSON\\serializar_deserealizar_XML_JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaime\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

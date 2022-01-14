@@ -1,0 +1,23 @@
+[
+    {
+        "Lado": 56.0,
+        "LadoDos": 56.0,
+        "LadoTres": 23.0,
+        "Id": 1,
+        "Tipo": "Isosceles"
+    },
+    {
+        "Lado": 20.0,
+        "LadoDos": 20.0,
+        "LadoTres": 20.0,
+        "Id": 2,
+        "Tipo": "Equilatero"
+    },
+    {
+        "Lado": 26.0,
+        "LadoDos": 32.0,
+        "LadoTres": 58.0,
+        "Id": 3,
+        "Tipo": "Escaleno"
+    }
+]

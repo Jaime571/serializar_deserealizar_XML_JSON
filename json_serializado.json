@@ -1,0 +1,22 @@
+[
+    {
+        "Nombre": "Circle",
+        "Color": "Red",
+        "Area": 19.63
+    },
+    {
+        "Nombre": "Rectangle",
+        "Color": "Blue",
+        "Area": 200.00
+    },
+    {
+        "Nombre": "Square",
+        "Color": "Green",
+        "Area": 201.06
+    },
+    {
+        "Nombre": "Triangle",
+        "Color": "Purple",
+        "Area": 475.29
+    }
+]
